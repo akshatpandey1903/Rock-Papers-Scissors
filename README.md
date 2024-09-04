@@ -29,7 +29,7 @@ rock-paper-scissors/
 │
 ├── index.html        # Main HTML file
 ├── style.css         # CSS file for styling
-└── script.js         # JavaScript file for game logic
+└── app.js            # JavaScript file for game logic
 ```
 
 ## Future Enhancements
